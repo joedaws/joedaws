@@ -1,15 +1,25 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on
+  - "What if snake had story mode?" [snake](https://github.com/joedaws/snake)
+  - "What if eldirch beings had an ecomony and learned to share?" [beings](https://github.com/joedaws/beings)
+- 🌱 I’m currently learning 
+  - game dev
+  - functional design patterns
+  - simulation
+  - elixir
+  - zig
+  - reinforcement learning
+- 🤔 I’m looking for help with learning game-dev
+- 💬 Ask me about getting into programming, I have lots of [project ideas](https://joedaws.github.io/projects/project_generator.html)
+
 <!--
 **joedaws/joedaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
