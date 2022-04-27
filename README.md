@@ -12,6 +12,7 @@
   - reinforcement learning
 - 🤔 I’m looking for help with learning game-dev
 - 💬 Ask me about getting into programming, I have lots of [project ideas](https://joedaws.github.io/projects/project_generator.html)
+- 👀 Sometimes I stream development on [twitch](https://www.twitch.tv/wolajo).
 
 <!--
 **joedaws/joedaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
