@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-  - "What if snake had story mode?" [snake](https://github.com/joedaws/snake)
   - "What if eldirch beings had an ecomony and learned to share?" [beings](https://github.com/joedaws/beings)
+  - "What if snake had story mode?" [snake](https://github.com/joedaws/snake)
 - 🌱 I’m currently learning 
   - game dev
   - functional design patterns
