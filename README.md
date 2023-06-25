@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-  - Visualizing personal improvement goals [stats](https://github.com/joedaws/stats)
-  - "What if eldirch beings had an ecomony and learned to share?" [beings](https://github.com/joedaws/beings)
-  - "What if snake had story mode?" [snake](https://github.com/joedaws/snake)
-- 🌱 I’m currently learning 
+  - Learning elixir (and OTP) by building a simulation [lofi-eldritch-cosmos](https://github.com/joedaws/lofi-eldritch-cosmos)
+- 🌱 I’m currently learning
   - machine learning
-  - functional design patterns
+  - functional programming design patterns
   - simulation
   - elixir
   - reinforcement learning
