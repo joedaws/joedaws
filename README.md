@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-  - Learning elixir (and OTP) by building a simulation [lofi-eldritch-cosmos](https://github.com/joedaws/lofi-eldritch-cosmos)
-- 🌱 I’m currently learning
+  - Working on applications to improve document understanding for Electronic Health Records (EHRs)
+  - Advent of Code 2023 with Haskell.
+  - Building a simulation [lofi-eldritch-cosmos](https://github.com/joedaws/lofi-eldritch-cosmos)
+- Computing Interests
   - machine learning
+  - [FHIR](https://www.hl7.org/fhir/) and medical data servers
   - functional programming design patterns
   - simulation
-  - elixir
   - reinforcement learning
-- 🤔 I’m looking for help with learning visualizations
-- 💬 Ask me about getting into programming, I have some [project ideas](https://joedaws.github.io/projects/project_generator.html)
-- 👀 Sometimes I stream development on [twitch](https://www.twitch.tv/wolajo).
+- 💬 Ask me about getting into programming
+- 👀 Sometimes I stream development of side projects on [twitch](https://www.twitch.tv/wolajo).
 
 <!--
 **joedaws/joedaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
