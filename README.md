@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-  - Working on applications to improve document understanding for Electronic Health Records (EHRs)
-  - Advent of Code 2023 with Haskell.
+  - *At One Medical* I'm working on applications to improve document understanding for Electronic Health Records (EHRs)
+  - Simple tool to do things you may not want to do yourself [atool](https://github.com/joedaws/atool)
   - Building a simulation [lofi-eldritch-cosmos](https://github.com/joedaws/lofi-eldritch-cosmos)
 - Computing Interests
   - machine learning
