@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on
   - *At One Medical* I'm working on applications to improve document understanding for Electronic Health Records (EHRs)
-  - Simple tool to do things you may not want to do yourself [atool](https://github.com/joedaws/atool)
+  - Simple CLI for breaking strings into chunks for tweeting [chunktool](https://github.com/joedaws/chunktool)
   - Building a simulation [lofi-eldritch-cosmos](https://github.com/joedaws/lofi-eldritch-cosmos)
 - Computing Interests
   - machine learning
