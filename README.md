@@ -6,10 +6,12 @@ See also [atelier-machines](https://ateliermachines.com)
   extracting structured data from unstructured text. If you have an interest in related problems I hope
   we'll exchange some knowledge.
 - I enjoy building tiny CLIs to help me use computers 
-  - I like to write in text and md, but it's frustrating to copy and paste from those files into
-    social sites so I use [social-print](https://github.com/joedaws/social-print).
-  - Keeping track of which notes belogn to which project or are related to other ideas is frustrating. So I built
-    [note-manager](https://github.com/joedaws/note-manager).
+  - [social-print](https://github.com/joedaws/social-print) I like to write in text and md, but it's frustrating to copy and paste from those files into
+    social sites. This tool helps with that.
+  - [note-manager](https://github.com/joedaws/note-manager) Keeping track of which notes belong to which project or are related to other ideas
+    is frustrating. So I built a tool to help manage connections of notes.
+  - [solitaire-hint](https://github.com/joedaws/solitaire-hint) Sometimes I can't see the next move when playing solitaire. Here's a simple hint
+    tool to show the next moves.
 - Simulation
   - Built a simulation of social and political interaction [lofi-eldritch-cosmos](https://github.com/joedaws/lofi-eldritch-cosmos)
 
