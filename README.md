@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-See also [atelier-machiens](https://ateliermachines.com)
+See also [atelier-machines](https://ateliermachines.com)
 
 - I have spent the last 3 or so years working on backend systems which follow a general them of
   extracting structured data from unstructured text. If you have an interest in related problems I hope
