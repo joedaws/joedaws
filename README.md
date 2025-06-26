@@ -10,8 +10,7 @@ See also [atelier-machines](https://ateliermachines.com)
     social sites. This tool helps with that.
   - [note-manager](https://github.com/joedaws/note-manager) Keeping track of which notes belong to which project or are related to other ideas
     is frustrating. So I built a tool to help manage connections of notes.
-  - [solitaire-hint](https://github.com/joedaws/solitaire-hint) Sometimes I can't see the next move when playing solitaire. Here's a simple hint
-    tool to show the next moves.
+  - [solitaire](https://github.com/joedaws/solitaire) I like Solitaire so I built a CLI version.
 - Simulation
   - Built a simulation of social and political interaction [lofi-eldritch-cosmos](https://github.com/joedaws/lofi-eldritch-cosmos)
 
