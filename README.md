@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-See also [atelier-machines](https://ateliermachines.com)
+See also [atelier-machines](https://ateliermachines.com) for writing about specific things that have helped me think about building
+a good life.
 
 - Recently I have worked on backend systems which follow a general theme of
   extracting structured data from unstructured text. If you have an interest in related problems I hope
